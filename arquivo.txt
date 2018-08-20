@@ -3,4 +3,3 @@ Modificação 2
 Modificação -nova mudanca
 modificação dentro de feature 1
 modificação dentro de feature 2
->>>>>>> feature
