@@ -1,3 +1,6 @@
 Modificação 1
 Modificação 2
-Modificação nesta linha
+Modificação -nova mudanca
+modificação dentro de feature 1
+modificação dentro de feature 2
+>>>>>>> feature
